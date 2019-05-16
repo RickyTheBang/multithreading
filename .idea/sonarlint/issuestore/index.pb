@@ -38,8 +38,6 @@ c
 3src/exercises/multithreading_04/PrintAppLambda.java,b\c\bc018b32842feab66a36b8db6e398ea30710d857
 a
 1src/exercises/multithreading_05/JamesBondApp.java,a\4\a4a725c1778a4d9024dbc466e82e754a8a3557a7
-c
-3src/exercises/multithreading_05/PrintAppLambda.java,7\a\7afd80395c6c3087062509d3d4e2aa5948aedd22
 ]
 -src/exercises/multithreading_05/TimeBomb.java,d\2\d20f283f05824c57391a93f203599b5a47806a29
 c
@@ -98,3 +96,13 @@ Y
 ,src/multithreading/timertask/TimeOutApp.java,f\c\fc453f4cebddead63ffd9d881cdf7982c2b5cc9f
 T
 $src/multithreading/join/JoinApp.java,d\6\d6f7b83d35f26bf97fe1d9fa292248aa93fab83a
+g
+7src/multithreading/objectlocking/demo2/PingPongApp.java,d\5\d579d3a1599ee5091a889ffb4c4f587222cf308f
+i
+9src/multithreading/objectlocking/demo2/StringPrinter.java,6\5\65be0016207ecb341d1c2c5a6355cfd06b9da382
+l
+<src/multithreading/objectlocking/demo1/CounterAppLambda.java,3\f\3f507461446a5a2e93f64278d12cddca4f4f2998
+c
+3src/multithreading/objectlocking/demo1/Counter.java,d\9\d94314a8a4967c7d31b3eb041b7ddbb683c95e43
+W
+'src/multithreading/wait/Calculator.java,d\f\df5409747738cd3039cf6123b7d86d75966d2ac8

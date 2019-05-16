@@ -9,11 +9,11 @@ public class TimeOutApp {
         TimeOut task = new TimeOut();
         Timer timer = new Timer(true);
 
-        timer.schedule(task, 1000 * 10);
+        timer.schedule(task, 10_000);
 
         System.out.println("Please wait a moment.");
         try {
-            Thread.sleep(1000 * 20);  // Play with this line [lose the * 20 part to show timer not starting.]
+            Thread.sleep(20_000);  // Play with this line.
         } catch (InterruptedException e) {
             System.out.println("Thread [" + Thread.currentThread().getId() + "]: is Interrupted.");
         }

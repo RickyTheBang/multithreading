@@ -1,4 +1,4 @@
-package multithreading.objectlocking.demo2;
+package multithreading.objectlocking.demo1;
 
 public class CounterAppLambda {
 

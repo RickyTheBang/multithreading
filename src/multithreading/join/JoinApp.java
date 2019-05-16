@@ -17,7 +17,7 @@ public class JoinApp {
         The main will be in a timed waiting untill both threads are in a TerminatedStatus.
          */
         thread1.join();
-        thread2.join();
+//        thread2.join();
 
         System.out.println("End of the main!");
     }

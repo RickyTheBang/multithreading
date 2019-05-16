@@ -1,4 +1,4 @@
-package multithreading.objectlocking;
+package multithreading.objectlocking.demo2;
 
 /**
  * Created by Mrrobot on 11/06/2018 javabasics-workspace.

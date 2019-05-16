@@ -24,7 +24,7 @@ public class CalculateApp {
             calc.setValue(value);
 
             int result = calc.getResult();
-            System.out.println(value + " : " + result + " [Thread id " + Thread.currentThread().getId() + "]");
+            System.out.println(value + " : " + result + " [Thread " + Thread.currentThread().getName() + "]");
             if (result != (value * value)) {
                 System.out.println("Error");
             }
